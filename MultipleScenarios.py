@@ -30,7 +30,7 @@ import random
 #       Airdrag models
 
 Ncycles = 1
-NFourrierCoeff = 30
+NFourrierCoeff = 5
 plotresults = False
 
 #Generate random cycles
